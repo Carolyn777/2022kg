@@ -1,2 +1,2 @@
-# 2021-
-saving files
+# 2022-
+saving photo files for knowledge graph
