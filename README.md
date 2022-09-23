@@ -1,2 +1,2 @@
 # 2022-
-saving photo files for knowledge graph
+saving photo files for konts in a knowledge graph
